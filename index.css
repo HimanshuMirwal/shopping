@@ -1,0 +1,141 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+
+
+#wrap
+{
+	height:auto;
+	width:1300px;
+	//background:red;
+	margin:auto;
+}
+
+#top
+{
+	height:auto;
+	width:1300px;
+	background:black;
+	overflow:hidden;
+}
+#top_left
+{
+	height:100px;
+	line-height:100px;
+	margin-left:30px;
+	font-size:larger;
+	color:#FFF;
+	
+}
+#top_right
+{
+	height:50px;
+	width:auto;
+	//border:2px solid black;
+	margin-top:50px;
+}
+
+#top_right table
+{
+	font-size:24px;
+		color:#FFF;
+
+	
+}
+#top_right table th
+{
+	padding:10px;
+}
+
+#mid
+{
+	height:auto;
+	width:1300px;
+	//background:#0F9;
+	
+}
+
+#mid_one
+{
+	height:600px;
+	width:1300px;
+	background-image:url('home/background.jpg');
+	 background-size:cover;
+	  overflow:hidden; 
+	  
+	  background-position:center;
+	
+}
+
+#mid_two
+{
+	height:1100;
+	width:1300px;
+	//background:#F0F;
+	text-align:center;
+	color:#000;
+	font-weight:bolder;
+	font-size:24px;
+	
+}
+#shirt
+{
+	height:400px;
+	width:500px;
+	background-image:url(shirts/PS10.165B.l94_FR_1.jpg);
+	box-shadow:0px 0px 10px 0px black;
+	float:left;
+	margin:50px;
+	border: 2px solid black ;
+	
+}
+#shorts
+{
+	height:400px;
+	width:500px;
+	background-image:url(shorts/5-6-years-akbbd3189185white-allen-solly-junior-original-imaf8t2k6dshtdy6.jpeg);
+	float:right;
+	margin:50px;
+	box-shadow:0px 0px 10px 0px black;
+		border: 2px solid black ;
+
+	
+}
+
+#shoes
+{
+	height:400px;
+	width:500px;
+	background-image:url(home/stanislav-kondratiev-671843-unsplash.jpg);
+	background-size:170%;
+	float:left;
+	margin:50px;
+	box-shadow:0px 0px 10px 0px black;
+		border: 2px solid black ;
+
+}
+
+#watch
+{
+	height:400px;
+	width:500px;
+	background-image:url(watch/wrist_watch_watch_style_130920_3840x2400.jpg);
+	float:right;
+	margin:50px;
+	background-size:140%;
+	box-shadow:0px 0px 10px 0px black;
+		border: 2px solid black ;
+
+}
+
+#footer
+{
+	height:90px;
+	width:1300px;
+	background:linear-gradient(white,black);
+	text-align:center;
+	font-size:18px;
+	font-weight:bolder;
+}

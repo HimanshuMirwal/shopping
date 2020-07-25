@@ -1,0 +1,26 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+#wrap
+{
+	height:auto;
+	width:1300px;
+	margin:auto;
+	//border:2px solid red;
+	overflow:hidden;
+}
+#top
+{
+	height:400px;
+	width:1300px;
+	font-size:90px;
+	background-image:url(home/cabinet-clothes-clothes-hanger-996329.jpg);
+	background-size:cover;
+	text-align:center;
+	background-position:center;
+	color:#FFF;
+	
+}
+
